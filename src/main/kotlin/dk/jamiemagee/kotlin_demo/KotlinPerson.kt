@@ -1,1 +1,1 @@
-data class person(var firstName: String, var lastName: String)
+data class KotlinPerson(var firstName: String, var lastName: String)
